@@ -1,0 +1,33 @@
+1.  Vehicle to vehicle wireless charigng by alligning vehicles and transfering charges.
+    makes more people buy evs and main reason to not buy ev in india is the lack of charging stations.
+    solution for removing the anxiety of running out of charge while in the middle of nowhere.
+
+2.  Solution to the Trolley Problem- 
+    This scenario describes the ethical dilemma known as the "Trolley Problem" in the context of autonomous vehicles. The problem is:
+
+    Problem Statement: "Design an autonomous vehicle's decision-making system to handle situations where the car must choose between two undesirable outcomes: harming the vehicle's occupants or harming a pedestrian. 
+    Specifically, if the car is accelerating at a rate that prevents it from stopping in time for a crossing pedestrian, 
+    the system must decide whether to swerve into a wall, potentially injuring or killing the passengers, or to continue forward, 
+    potentially injuring or killing the pedestrian."
+
+    Key Challenges:
+
+    a. Ethical Decision-Making: How to program the car to make ethical decisions in unavoidable collision scenarios.
+
+
+    b. Safety Prioritization: Determining whether the safety of the passengers or the pedestrian should take precedence.
+
+
+    c. Legal and Moral Implications: Navigating the legal and moral responsibilities of the autonomous vehicle's behavior in such situations.
+  
+
+    d. Predictive Modelling: Developing systems that can predict and evaluate the consequences of different actions in real-time.
+
+
+    e. Risk Minimization: Implementing strategies to reduce the likelihood of such scenarios arising.
+
+
+    Problem can be solved by using a live sattellite feed in order to have coverage of every single vehicle and person and moving thing and given this information to the vehicle can easily avoid any collisions.
+    even though tesla has tried to overcome this problem by implementing just cameras 360* around the vehicle.. it still dosent give the ev's software enough time to detect and react..
+    so having a sattelite feed will give an early information on where and when the living beings are moving in order to avoid any unforseen circumstances.
+
