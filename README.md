@@ -2,4 +2,4 @@
 - 👀 I’m interested in Electric Vehicle Technology
 - 🌱 I’m currently learning Development in EV
 - 💞️ I’m looking to collaborate on Projects based on EV which i have some ideas for
-- 📫 How to reach me on Linkedin - www.linkedin.com/in/samuel-sangeeth-ponraj
+- 📫 How to reach me on Linkedin - www.linkedin.com/in/samuel-sangeeth-ponraj/
